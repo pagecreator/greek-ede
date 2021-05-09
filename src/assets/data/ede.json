@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1, 
+    "title": "Μαρούσι μαθητές",
+    "incidentDate": "2020-10-09T00:00:00.000Z",
+    "startDate": "",
+    "endDate": "",
+    "currentStage": 2,
+    "stages": [
+      {
+        "id": "1",
+        "title": "Έναρξη",
+        "startDate": "2020-10-09T00:00:00.000Z",
+        "endDate": ""
+      }
+    ],
+    "modifiedOn": "2021-03-21T00:00:00.000Z",
+    "tags": [
+      "marousi",
+      "mathites"
+    ],
+    "links": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "eta": "1 month",
+    "Ombudsman": true
+  },
+  {
+    "id": 2, 
+    "title": "Μάγγος Β.",
+    "incidentDate": "2020-04-16T00:00:00.000Z",
+    "endDate": "",
+    "currentStage": "3",
+    "stages": [
+      {
+        "id": "1",
+        "title": "Έναρξη",
+        "startDate":  "2020-04-16T00:00:00.000Z",
+        "endDate": "2021-03-21T00:00:00.000Z"
+      },
+      {
+        "id": "2",
+        "title": "Ε.Δ.Ε σε εξέλιξη, εκκρεμεί στον Στο Συνήγορο του Πολίτη",
+        "startDate": "2021-03-21T00:00:00.000Z",
+        "endDate": ""
+      }
+    ],
+    "modifiedOn": "2021-03-21T00:00:00.000Z",
+    "tags": [
+      "maggos"
+    ],
+    "links": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "eta": "",
+    "Ombudsman": true
+  },
+  {
+    "id": 3, 
+    "title": "Πλατεία Κυψέλη",
+    "currentStage": 3,
+    "incidentDate": "2020-05-08T00:00:00.000Z",
+    "startDate": "",
+    "endDate": "",
+    "stages": [
+      {
+        "id": "1",
+        "title": "Έναρξη",
+        "startDate": "2020-05-8T00:00:00.000Z",
+        "endDate": "2021-03-21T00:00:00.000Z"
+      },
+      {
+        "id": "2",
+        "title": "Ε.Δ.Ε σε εξέλιξη, εκκρεμεί στον Στο Συνήγορο του Πολίτη",
+        "startDate": "2021-03-21T00:00:00.000Z",
+        "endDate": ""
+      }
+    ],
+    "modifiedOn": "2021-03-21T00:00:00.000Z",
+    "tags": [
+      "plateia kipseli"
+    ],
+    "links": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "eta": "",
+    "Ombudsman": true
+  },
+  {
+    "id": 4, 
+    "title": "Γαλάτσι 5χρονο",
+    "currentStage": 2,
+    "incidentDate": "2020-11-01T00:00:00.000Z",
+    "startDate": "",
+    "endDate": "",
+    "stages": [
+      {
+        "id": "1",
+        "title": "Έναρξη",
+        "startDate":"2020-11-01T00:00:00.000Z",
+        "endDate": "2021-03-21T00:00:00.000Z"
+      }
+    ],
+    "modifiedOn": "2021-03-21T00:00:00.000Z",
+    "tags": [
+      "plateia kipseli"
+    ],
+    "links": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "eta": "1 month",
+    "Ombudsman": true
+  },
+  {
+    "id": 5, 
+    "currentStage": 3,
+    "title": "Τραυματισμός βουλευτή ΣΥΡΙΖΑ από δακρυγόνο",
+    "incidentDate":"2020-10-07T00:00:00.000Z",
+    "startDate": "",
+    "endDate": "",
+    "stages": [
+      {
+        "id": "1",
+        "title": "Έναρξη",
+        "startDate": "2020-10-07T00:00:00.000Z",
+        "endDate":  "2021-03-21T00:00:00.000Z"
+      },
+      {
+        "id": "2",
+        "title": "Ε.Δ.Ε σε εξέλιξη, εκκρεμεί στον Στο Συνήγορο του Πολίτη",
+        "startDate":  "2021-03-21T00:00:00.000Z",
+        "endDate": ""
+      }
+    ],
+    "modifiedOn":  "2021-03-21T00:00:00.000Z",
+    "tags": [
+      "syriza",
+      "vouleutis"
+    ],
+    "links": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "eta": "",
+    "Ombudsman": true
+  },
+  {
+    "id": 6, 
+    "currentStage": 2,
+    "title": "Xios",
+    "incidentDate": "2020-02-27T00:00:00.000Z",
+    "startDate": "",
+    "endDate": "",
+    "stages": [
+      {
+        "id": "1",
+        "title": "Έναρξη",
+        "startDate":"2020-02-27T00:00:00.000Z",
+        "endDate":  "2021-03-21T00:00:00.000Z"
+      }
+    ],
+    "modifiedOn":  "2021-03-21T00:00:00.000Z",
+    "tags": [
+      "xios"
+    ],
+    "links": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "eta": "1 month",
+    "Ombudsman": true
+  }
+]
