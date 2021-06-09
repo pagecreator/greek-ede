@@ -22,7 +22,10 @@ import {
   AgmCoreModule
 } from '@agm/core';
 import { AdminLayoutComponent } from './layouts/admin-layout/admin-layout.component';
+import { registerLocaleData } from '@angular/common';
+import localeEl from '@angular/common/locales/el';
 
+registerLocaleData(localeEl);
 @NgModule({
   imports: [
     BrowserAnimationsModule,
